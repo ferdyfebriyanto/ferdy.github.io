@@ -1,0 +1,9 @@
+.header {
+    background-size: cover;
+    background-image: url('../img/jumbotron.png');
+    height: 200px;
+}
+
+a {
+    text-decoration: none;
+}
